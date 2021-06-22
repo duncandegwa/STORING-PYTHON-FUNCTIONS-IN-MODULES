@@ -10,9 +10,13 @@ Storing your functions in a separate file allows you to hide the details of your
 
 ### Key takeaways: 
 Importing an entire module
+
 Importing specific functions
+
 Using as to give a function an alias
+
 Using as to give a module an alias
+
 Importing all functions in a module
 
 
